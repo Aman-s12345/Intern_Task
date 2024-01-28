@@ -1,5 +1,5 @@
 # React Task Tracker
-:rocket: [Link to website][https://shoping-cart-ebon.vercel.app/]
+:rocket: [Link to website][https://intern-task-ruby.vercel.app/]
 
 ### `All Task`
 Display a list of tasks with their respective details (task name, date added, status).
