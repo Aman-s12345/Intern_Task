@@ -1,0 +1,66 @@
+export const tasks = [
+    {
+      id: 0,
+      title: "HTML Basics",
+      description: "Learn and practice HTML fundamentals",
+      date: "28/01/2024",
+      status: true,
+    },
+    {
+      id: 1,
+      title: "CSS Styling",
+      description: "Apply styles using CSS for a web page",
+      date: "02/02/2024" ,
+      status: false,
+    },
+    {
+      id: 2,
+      title: "JavaScript Functions",
+      description: "Create and understand JavaScript functions",
+      date: "04/02/2024",
+      status: true,
+    },
+    {
+      id: 3,
+      title: "Responsive Design",
+      description: "Learn how to make your web pages responsive",
+      date: "05/02/2024",
+      status: false,
+    },
+    {
+      id: 4,
+      title: "React.js",
+      description: "Complete a React.js assignment and upload it on GitHub",
+      date: "06/02/2024",
+      status: true,
+    },
+    {
+      id: 5,
+      title: "Node.js Basics",
+      description: "Explore the basics of Node.js",
+      date: "07/02/2024",
+      status: false,
+    },
+    {
+      id: 6,
+      title: "Database Concepts",
+      description: "Understand  concepts of databases",
+      date: "02/02/2024",
+      status: true,
+    },
+    {
+      id: 7,
+      title: "API Integration",
+      description: "Integrate APIs into your web application",
+      date: "04/02/2024",
+      status: false,
+    },
+    {
+      id: 8,
+      title: "Final Project",
+      description: "Work on and complete your final web development project",
+      date: "28/01/2024",
+      status: true,
+    },
+  ];
+  
